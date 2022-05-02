@@ -1,0 +1,30 @@
+.product{
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 139, 0.37);
+  margin-bottom: 2px;
+  padding: 5px;
+}
+.product-dtails{
+  padding: 5px;
+  background-color: antiquewhite;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  
+}
+.product img{
+  margin-right: 10px;
+
+}
+.cart-container{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.cart-btn{
+  display: inline-block;
+  background-color: black;
+  color: #fff;
+  padding:10px 20px;
+  border:1px solid wheat;
+  border-radius: 5px;
+
+}
